@@ -4,3 +4,18 @@ h2 {
 	transform: skew(-15deg);
 	background-image: linear-gradient(to right, #27acd9 0%, #b4e12b 100%);
 }
+
+body {
+        background-color: black;
+        color: orange;
+        font-size: 16px;
+        font-family: Arial, sans-serif;
+}
+a {
+        color: orange;
+        text-decoration: none;
+}
+a:hover {
+        text-decoration: underline;
+}
+    
