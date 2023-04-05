@@ -1,5 +1,6 @@
-<style>
-	header {
-		background-color: #f2f2f2;
-	}
-</style>
+h2 {
+	padding: 1rem 2rem;
+	color: #fff;
+	transform: skew(-15deg);
+	background-image: linear-gradient(to right, #27acd9 0%, #b4e12b 100%);
+}
