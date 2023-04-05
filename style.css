@@ -18,4 +18,9 @@ a {
 a:hover {
         text-decoration: underline;
 }
-    
+
+.timeline {
+  max-width: 40%;
+  border: 1px solid #333;
+  padding: 10px;
+}
